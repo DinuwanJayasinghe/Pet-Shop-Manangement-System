@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\pet shop management system\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|solutionrelative:pet shop management system\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\pet shop management system\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|solutionrelative:pet shop management system\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|d:\\b.tech in softwre technology lessons \u0026 details\\semester 3\\visual programing ii\\pet shop management system\\pet shop management system\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|solutionrelative:pet shop management system\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\pet shop management system\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|solutionrelative:pet shop management system\\splashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|solutionrelative:pet shop management system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\pet shop management system\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|solutionrelative:pet shop management system\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\pet shop management system\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|solutionrelative:pet shop management system\\cashcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\pet shop management system\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|solutionrelative:pet shop management system\\cashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FBC428A-A51F-443E-A09B-1F50C886367D}|Pet Shop Management System\\Pet Shop Management System.csproj|D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\pet shop management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,6 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SplashForm.cs",
+              "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\SplashForm.cs",
+              "RelativeDocumentMoniker": "Pet Shop Management System\\SplashForm.cs",
+              "ToolTip": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\SplashForm.cs",
+              "RelativeToolTip": "Pet Shop Management System\\SplashForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:23:03.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\MainForm.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\MainForm.cs",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SplashForm.cs [Design]",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\SplashForm.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\SplashForm.cs",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CashForm.Designer.cs",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CashForm.Designer.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\CashForm.Designer.cs",
@@ -95,18 +112,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CashCustomer.cs [Design]",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CashCustomer.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\CashCustomer.cs",
               "ToolTip": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CashCustomer.cs [Design]",
               "RelativeToolTip": "Pet Shop Management System\\CashCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T21:30:58.248Z"
+              "WhenOpened": "2024-08-28T21:30:58.248Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CashCustomer.cs",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CashCustomer.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\CashCustomer.cs",
@@ -114,22 +132,24 @@
               "RelativeToolTip": "Pet Shop Management System\\CashCustomer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T11:55:54.55Z"
+              "WhenOpened": "2024-08-28T11:55:54.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CashForm.cs [Design]",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CashForm.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\CashForm.cs",
               "ToolTip": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CashForm.cs [Design]",
               "RelativeToolTip": "Pet Shop Management System\\CashForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T09:39:20.956Z"
+              "WhenOpened": "2024-08-28T09:39:20.956Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CashForm.cs",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CashForm.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\CashForm.cs",
@@ -137,40 +157,44 @@
               "RelativeToolTip": "Pet Shop Management System\\CashForm.cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAAAAKQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T10:25:07.685Z"
+              "WhenOpened": "2024-08-28T10:25:07.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\Dashboard.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\Dashboard.cs",
               "ToolTip": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\Dashboard.cs [Design]",
               "RelativeToolTip": "Pet Shop Management System\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:45:23.108Z"
+              "WhenOpened": "2024-08-28T15:45:23.108Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CustomerModule.cs [Design]",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CustomerModule.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\CustomerModule.cs",
               "ToolTip": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\CustomerModule.cs [Design]",
               "RelativeToolTip": "Pet Shop Management System\\CustomerModule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:27:08.434Z"
+              "WhenOpened": "2024-08-28T15:27:08.434Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserModule.cs [Design]",
               "DocumentMoniker": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\UserModule.cs",
               "RelativeDocumentMoniker": "Pet Shop Management System\\UserModule.cs",
               "ToolTip": "D:\\B.Tech in Softwre Technology Lessons \u0026 Details\\Semester 3\\Visual Programing II\\Pet Shop Management System\\Pet Shop Management System\\UserModule.cs [Design]",
               "RelativeToolTip": "Pet Shop Management System\\UserModule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T09:39:12.526Z"
+              "WhenOpened": "2024-08-28T09:39:12.526Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
